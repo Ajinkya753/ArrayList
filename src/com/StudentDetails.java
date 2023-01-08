@@ -1,0 +1,18 @@
+package com;
+import java.util.ArrayList;
+import java.util.List;
+
+public class StudentDetails {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<String> studentList=new ArrayList<String>();
+		studentList.add("Ajinkya");
+		studentList.add("Ashwini");
+		studentList.add("PR");
+		studentList.add("Pranju");
+		System.out.println(studentList);
+		
+	}
+
+}
