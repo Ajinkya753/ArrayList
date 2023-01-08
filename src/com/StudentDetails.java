@@ -9,7 +9,7 @@ public class StudentDetails {
 		List<String> studentList=new ArrayList<String>();
 		studentList.add("Ajinkya");
 		studentList.add("Ashwini");
-		studentList.add("PR");
+		studentList.add("Pranjali");
 		studentList.add("Pranju");
 		System.out.println(studentList);
 		
