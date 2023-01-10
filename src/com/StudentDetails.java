@@ -11,6 +11,7 @@ public class StudentDetails {
 		studentList.add("Ashwini");
 		studentList.add("Pranjali");
 		studentList.add("Pranju");
+		studentList.add("Ashay");
 		System.out.println(studentList);
 		
 	}
