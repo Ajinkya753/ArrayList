@@ -12,6 +12,7 @@ public class StudentDetails {
 		studentList.add("Pranjali");
 		studentList.add("Pranju");
 		studentList.add("Ashay");
+		studentList.add("Mahesh");
 		System.out.println(studentList);
 		
 	}
